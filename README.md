@@ -1,2 +1,2 @@
 ### titulo
-####### subtitulo
+subtitulo
